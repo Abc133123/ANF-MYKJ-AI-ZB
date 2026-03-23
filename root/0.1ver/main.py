@@ -153,7 +153,7 @@ def generate_speech(text):
 
 # 初始化客户端
 client = OpenAI(
-    api_key="sk-511d926003b2495a95c9d8ee9a4478f5",
+    api_key="sk-DeepSeekAPI",
     base_url="https://api.deepseek.com"
 )
 
