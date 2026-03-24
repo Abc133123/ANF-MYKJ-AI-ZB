@@ -1,4 +1,4 @@
-# ANF-MYKJ-AI-ZB
+# ANF-MYKJ-AI-VUP
 <h1>Python-DeepseekAPI_LLM-VITS-GPT_TTS-Live2d_VTS</h1>
 项目介绍<br>
 新手自己搭建的AIVUP 只要直播接口在桌面 和哔哩哔哩<br>
